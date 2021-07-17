@@ -1,0 +1,8 @@
+<div class='scene-background'></div>
+  <canvas class='app'></canvas>
+  <div class='infos'>
+    <p class='instructions'>
+      Click and hold to make the sheep jump the highest.
+    </p>
+    <a class='link' href="https://kffein.com" target="_blank">kffein.com</a>
+  </div>
